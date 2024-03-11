@@ -17,6 +17,10 @@ public class NuevaFuncionalidad {
 
         Scanner scanner = new Scanner(System.in);
 
+        
+        //
+        //
+        //
         while (true) {
             //Ahora que el usuario escriba el nombre del movimiento
             //Para elevar la dificultad y así aprende inglés
